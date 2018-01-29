@@ -1,2 +1,2 @@
 # wheretoeat
-App that suggests best option for you or you group to eat absed on preferences.
+App that suggests best option for you or your group to eat based on preferences.
